@@ -32,3 +32,6 @@ infinite scrolling 기술을 적용하여 다른 조작없이 화면을 아래�
 ![image](https://user-images.githubusercontent.com/80259925/118587779-249cb200-b7d8-11eb-9842-bf0ffcc8ea84.png)
 
 좌측 상단의 로고를 클릭하면 새로고침되어 가장 처음 화면이 로드됩니다.
+---
+## Demo Movies
+![May-18-2021 13-00-25](https://user-images.githubusercontent.com/80259925/118588388-3f235b00-b7d9-11eb-9a2a-4207250e5b4c.gif)
