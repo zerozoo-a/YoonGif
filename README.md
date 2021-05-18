@@ -9,7 +9,7 @@
 
 
 
-## 기능
+## Feature
 ![image](https://user-images.githubusercontent.com/80259925/118587085-e94db380-b7d6-11eb-914a-279bc65b2888.png)
 - 검색창을 통해 giphy DB에 저장된 gif 파일들을 검색할 수 있습니다.
 -
