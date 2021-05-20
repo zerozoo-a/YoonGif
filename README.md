@@ -10,6 +10,8 @@
 
 
 ## Feature
+![image](https://user-images.githubusercontent.com/80259925/118922958-d1f8fc80-b975-11eb-9f80-cdb2b0ed9441.png)
+- 화면을 초기화합니다 / dark mode, light mode로 변경됩니다.
 ![image](https://user-images.githubusercontent.com/80259925/118587085-e94db380-b7d6-11eb-914a-279bc65b2888.png)
 - 검색창을 통해 giphy DB에 저장된 gif 파일들을 검색할 수 있습니다.
 -
